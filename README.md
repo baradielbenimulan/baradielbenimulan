@@ -7,14 +7,14 @@
 Yaptığım örnek projelere buradan göz gezdirebilirsiniz.
 ## 🌱 2020 Aralık ayından beri PHP öğreniyorum.
 ## 💻 Bildiğim diller:
-[PHP](https://www.php.net)
-[Html](https://html.com/)
-[Css](https://html.com/)
+* [PHP](https://www.php.net)
+* [Html](https://html.com/)
+* [Css](https://html.com/)
 
 ## 📫 Bana nasıl ulaşırsın:
 
-[Gmail](bekekgaj@gmail.com)
-[Twitter](https://www.twitter.com/samilservet)
+* [Gmail](bekekgaj@gmail.com)
+* [Twitter](https://www.twitter.com/samilservet)
 
 <!--
 **baradielbenimulan/baradielbenimulan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
