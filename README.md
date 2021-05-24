@@ -3,9 +3,9 @@
 
 ![](https://komarev.com/ghpvc/?username=baradielbenimulan&color=ff69b4&style=plastic)
 
-##- 🔭 Freelance olarak çalışıyorum.
-##- 🌱 2020 Aralık ayından beri PHP öğreniyorum.
-##- 📫 Bana nasıl ulaşırsın:
+## 🔭 Freelance olarak çalışıyorum.
+## 🌱 2020 Aralık ayından beri PHP öğreniyorum.
+## 📫 Bana nasıl ulaşırsın:
 bekekgaj@gmail.com
 twitter.com/samilservet
 
