@@ -1,7 +1,7 @@
 # Selam Profilime Hoşgeldin 👋
 
 
-#![](https://komarev.com/ghpvc/?username=baradielbenimulan&color=ff69b4&style=plastic)
+![](https://komarev.com/ghpvc/?username=baradielbenimulan&color=ff69b4&style=plastic)
 
 ## 🔭 Freelance olarak çalışıyorum.
 ## 🌱 2020 Aralık ayından beri PHP öğreniyorum.
