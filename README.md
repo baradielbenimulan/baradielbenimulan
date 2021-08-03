@@ -10,6 +10,9 @@ Yaptığım örnek projelere buradan göz gezdirebilirsiniz.
 * [PHP](https://www.php.net)
 * [Html](https://html.com/)
 * [Css](https://html.com/)
+* [Ajax](https://jquery.com/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Jquery](https://jquery.com/)
 
 ## 📫 Bana nasıl ulaşırsın:
 
