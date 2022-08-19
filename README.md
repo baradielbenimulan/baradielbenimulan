@@ -5,7 +5,7 @@
 
 ## 🔭 Freelance olarak çalışıyorum.
 Yaptığım örnek projelere buradan göz gezdirebilirsiniz.
-## 🌱 2020 Aralık ayından beri PHP öğreniyorum.
+## 🌱 PHP DEVELOPER.
 ## 💻 Bildiğim diller:
 * [PHP](https://www.php.net)
 * [Html](https://html.com/)
