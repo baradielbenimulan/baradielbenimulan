@@ -8,6 +8,8 @@ Yaptığım örnek projelere buradan göz gezdirebilirsiniz.
 ## 🌱 PHP DEVELOPER.
 ## 💻 Bildiğim diller:
 * [PHP](https://www.php.net)
+* [REACT](https://react.dev/)
+* [REACT NATIVE](https://reactnative.dev/)
 * [Html](https://html.com/)
 * [Css](https://html.com/)
 * [Ajax](https://jquery.com/)
