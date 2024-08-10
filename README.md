@@ -5,7 +5,7 @@
 
 ## 🔭 Freelance olarak çalışıyorum.
 Yaptığım örnek projelere buradan göz gezdirebilirsiniz.
-## 🌱 PHP DEVELOPER.
+## 🌱 JS DEVELOPER.
 ## 💻 Bildiğim diller:
 * [PHP](https://www.php.net)
 * [REACT](https://react.dev/)
