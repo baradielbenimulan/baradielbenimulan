@@ -7,8 +7,9 @@
 Yaptığım örnek projelere buradan göz gezdirebilirsiniz.
 ## 🌱 JS DEVELOPER.
 ## 💻 Bildiğim diller:
-* [PHP](https://www.php.net)
-* [REACT](https://react.dev/)
+* [Express.js](https://expressjs.com/)
+* [React Native](https://reactnative.dev/)
+* [PHP](https://www.php.net) 
 * [REACT NATIVE](https://reactnative.dev/)
 * [Html](https://html.com/)
 * [Css](https://html.com/)
