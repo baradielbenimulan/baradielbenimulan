@@ -1,37 +1,38 @@
-# Selam Profilime Hoşgeldin 👋
-
+# Selam, Ben Şamil Servet Avcı 👋
 
 ![](https://komarev.com/ghpvc/?username=baradielbenimulan&color=ff69b4&style=plastic)
 
-## 🔭 Freelance olarak çalışıyorum.
-Yaptığım örnek projelere buradan göz gezdirebilirsiniz.
-## 🌱 JS DEVELOPER.
-## 💻 Bildiğim diller:
-* [Express.js](https://expressjs.com/)
-* [React Native](https://reactnative.dev/)
-* [PHP](https://www.php.net) 
-* [REACT NATIVE](https://reactnative.dev/)
-* [Html](https://html.com/)
-* [Css](https://html.com/)
-* [Ajax](https://jquery.com/)
-* [Bootstrap](https://getbootstrap.com/)
-* [Jquery](https://jquery.com/)
+## 🚀 Yazılım Geliştirici & Girişimci
+Freelance olarak projeler geliştiriyor ve kendi girişimlerimi yönetiyorum. Özellikle işletme verimliliğini artıran SaaS çözümleri üzerine odaklanıyorum.
 
-## 📫 Bana nasıl ulaşırsın:
+---
 
-* [Gmail](bekekgaj@gmail.com)
-* [Twitter](https://www.twitter.com/samilservet)
+## 🛠️ Şu An Ne Yapıyorum?
+Şu anda küçük ve orta ölçekli işletmelerin (teknik servisler, beyaz eşya tamiri, su arıtma servisleri vb.) iş akışlarını dijitalleştiren **[TeknikPlus](https://teknikplus.com)** projesi üzerinde çalışıyorum.
 
-<!--
-**baradielbenimulan/baradielbenimulan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Proje:** [TeknikPlus - Bulut Tabanlı Servis Takip Yazılımı](https://teknikplus.com)
+* **Odak:** Müşteri yönetimi (CRM), servis kayıt takibi ve periyodik bakım hatırlatıcıları.
 
-Here are some ideas to get you started:
+---
 
+## 💻 Teknoloji Yığınım
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
- ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Frontend | Backend & Veritabanı | Mobil |
+| :--- | :--- | :--- |
+| HTML5, CSS3, Bootstrap | PHP, Express.js | React Native |
+| JavaScript, jQuery, Ajax | MySQL, SQL | |
+
+---
+
+## 📫 Bana Ulaşın
+
+İş birliği, projeler veya sadece sohbet etmek için:
+
+* **Web:** [teknikplus.com](https://teknikplus.com)
+* **Twitter:** [@samilservet](https://www.twitter.com/samilservet)
+* **E-posta:** [bekekgaj@gmail.com](mailto:bekekgaj@gmail.com)
+
+---
+
+### ⚡ Eğlenceli Bilgi
+Mutfakta kod yazmak kadar iyi olduğum bir diğer alan da **ney** üflemektir. 🎶
